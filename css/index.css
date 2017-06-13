@@ -1,0 +1,453 @@
+body {
+    background-color: #FFE713;
+    font-family: "Helvetica Neue", Helvetica, "Microsoft YaHei", '微软雅黑', arial, sans-serif;
+}
+
+.swiper-container {
+    width: 320px;
+    height: 486px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -243px;
+    margin-left: -160px;
+
+}
+
+.page1 .ren {
+    width: 293px;
+    height: 323px;
+    position: absolute;
+    left: 14px;
+    bottom: 0;
+}
+
+.page1 .kuai {
+    width: 54px;
+    height: 99px;
+    left: 15px;
+    top: -22px;
+    position: absolute;
+}
+
+.page1 .le {
+    width: 54px;
+    height: 99px;
+    left: 253px;
+    top: -22px;
+    position: absolute;
+}
+
+.page1 .tit1 {
+    position: absolute;
+    width: 129px;
+    height: 46px;
+    left: 17px;
+    top: 89px;
+}
+
+.page1 .tit2 {
+    position: absolute;
+    width: 22px;
+    height: 43px;
+    left: 150px;
+    top: 91px;
+}
+
+.page1 .tit3 {
+    position: absolute;
+    width: 128px;
+    height: 46px;
+    left: 176px;
+    top: 89px;
+}
+
+.page1 .text1 span {
+    color: rgb(0, 0, 0);
+    font-size: 21px;
+    line-height: inherit;
+    background-color: initial;
+    position: absolute;
+    left: 76px;
+    top: 58px;
+}
+
+.page1 .text2 span {
+    line-height: inherit;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    background-color: initial;
+    position: absolute;
+    left: 25px;
+    top: 150px;
+}
+
+.swiper-pagination-fraction {
+    left: 140px;
+    width: 100%;
+    color: #fff;
+    font-size: 14px;
+}
+
+.swiper-slide .ren2{
+    width: 121.17px;
+    height: 127px;
+    position: absolute;
+    right: 17px;
+    top: 14px;
+}
+
+.swiper-slide .editable-text {
+    cursor: default;
+    font-size: 24px;
+    width: 163px;
+    height: 40px;
+    text-rendering: optimizeLegibility;
+    position: absolute;
+    top: 105px;
+    left: 30px;
+}
+.swiper-slide .bolang1{
+    position: absolute;
+    left: 27px;
+    top:130px;
+}
+.swiper-slide .bolang2{
+    position: absolute;
+    left: 27px;
+    top:136px;
+}
+.swiper-slide .bolang3{
+    position: absolute;
+    left: 27px;
+    top:142px;
+}
+
+
+.page2 .content{
+    cursor: default;
+    font-size: 24px;
+    width: 266px;
+    height: 230px;
+    text-rendering: optimizeLegibility;
+    position: absolute;
+    line-height: 24px;
+    top: 164px;
+    left: 27px;
+    background: #aeaeae;
+}
+.page2 .foot{
+    text-align: right;
+    position: absolute;
+    width: 100%;
+    top: 400px;
+    right: 27px;
+}
+
+.page3 .box{
+    width: 272px;
+    height: 78.065px;
+    position: absolute;
+    left: 24px;
+}
+.page3 .element-box{
+    top: 170px;
+}
+.page3 .element-box2{
+    top: 260px;
+}
+.page3 .element-box3{
+    top: 350px;
+}
+.page3 .box h3{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 28px;
+    left: 14px;
+}
+.page3 .box p{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 8px;
+    left: 90px;
+}
+.page3 .box .sp1{
+    position: absolute;
+    top: 34px;
+    left: 90px;
+}
+.page3 .box .sp2{
+    position: absolute;
+    top: 52px;
+    left: 90px;
+}
+.page3 .box .shuxian{
+    height: 50px;
+    border-left: 2px solid #000;
+    position: absolute;
+    top: 14px;
+    left: 73px;
+}
+.page3 .foot{
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+}
+
+
+.page4 .img1{
+    position: absolute;
+    top: 170px;
+    left: 25px;
+}
+
+.page4 .img2{
+    position: absolute;
+    top: 340px;
+    left: 25px;
+}
+.page4 .img3{
+    position: absolute;
+    top: 340px;
+    right: 25px;
+}
+
+.page5 .car{
+    position: absolute;
+    width: 266px;
+    height: 212px;
+    left: 27px;
+    top: 170px;
+}
+.page5 .jiage p{
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    line-height: inherit;
+    background-color: initial;
+    position: absolute;
+    top: 400px;
+    left: 66px;
+}
+.page5 .jiage span{
+    color: rgb(235, 114, 97);
+    font-size: 24px;
+    position: absolute;
+    top: 424px;
+    left: 86px;
+}
+.page5 .jiage a{
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+    background-color: #eb7261;
+    position: absolute;
+    width: 60px;
+    height: 24px;
+    text-align: center;
+    line-height: 24px;
+    top: 422px;
+    left: 156px;
+}
+.page6 .box{
+    position: absolute;
+    width: 128px;
+    height: 140px;
+}
+
+.page6 .box-1{
+    top: 164px;
+    left: 28px;
+}
+.page6 .box-2{
+    top: 164px;
+    right: 28px;
+}
+.page6 .box-3{
+    top: 320px;
+    left: 28px;
+}
+.page6 .box-4{
+    top: 320px;
+    right: 28px;
+}
+.page6 .box .p1{
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+    margin: 8px 0;
+}
+.page6 .box .p2{
+    font-size: 12px;
+    color: rgb(235, 114, 97);
+}
+.page7 .map{
+    position: absolute;
+    top: 160px;
+    left: 20px;
+}
+.page7 .p7-foot{
+    position: absolute;
+    top: 380px;
+    left: 30px;
+    font-size: 12px;
+    color: #000;
+    line-height: 18px;
+}
+
+
+.swiper-pagination1{
+    position: absolute;
+    text-align: center;
+    transition: .3s;
+    transform: translate3d(0,0,0);
+    z-index: 10;
+    font-size: 14px;
+    color: #fff;
+}
+
+.swiper-pagination2{
+    background: rgba(0,0,0,.25);
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    left: 0;
+    bottom: 0;
+}
+.swiper-pagination-progress {
+    width: 100%;
+    height: 4px;
+    left: 0;
+    top: 0;
+}
+.swiper-pagination-progressbar {
+    background: #007aff;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    transform: scale(0);
+    -webkit-transform-origin: left top;
+    -moz-transform-origin: left top;
+    -ms-transform-origin: left top;
+    -o-transform-origin: left top;
+    transform-origin: left top;
+}
+
+
+
+/*音乐按钮*/
+#audio_btn {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    z-index: 200;
+    display: none;
+    width: 30px;
+    height: 30px
+}
+
+.off {
+    background-image: url(../images/normalmusic.svg);
+    background-size: contain
+}
+
+.rotate {
+    -webkit-animation: rotating 1.2s linear infinite;
+    -moz-animation: rotating 1.2s linear infinite;
+    -o-animation: rotating 1.2s linear infinite;
+    animation: rotating 1.2s linear infinite
+}
+
+@-webkit-keyframes rotating {
+    from {
+        -webkit-transform: rotate(0)
+    }
+
+    to {
+        -webkit-transform: rotate(360deg)
+    }
+}
+
+@keyframes rotating {
+    from {
+        transform: rotate(0)
+    }
+
+    to {
+        transform: rotate(360deg)
+    }
+}
+
+@-moz-keyframes rotating {
+    from {
+        -moz-transform: rotate(0)
+    }
+
+    to {
+        -moz-transform: rotate(360deg)
+    }
+}
+
+.jindu{
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    bottom: 0;
+    z-index: 200;
+}
+.jindu .bar{
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-color: #bfe406;
+}
+
+.page8 .p8-box{
+    width: 224px;
+    height: 44px;
+    border: 2px solid #000;
+    position: absolute;
+}
+.page8 .p8-1{
+    top: 170px;
+    left: 48px;
+}
+.page8 .p8-2{
+    top: 230px;
+    left: 48px;
+}
+.page8 .p8-3{
+    top: 290px;
+    left: 48px;
+}
+.page8 .p8-4{
+    top: 350px;
+    left: 48px;
+}
+.page8 textarea{
+    width: 220px;
+    box-sizing: border-box;
+    height: 40px;
+    font-size: 16px;
+    color: #000;
+    line-height:40px;
+    resize: none;
+    background-color: #FFE713;
+}
+.page8 .btn{
+    width: 224px;
+    height: 44px;
+    background: #000;
+    font-size: 16px;
+    color: #fff;
+    position: absolute;
+    text-align: center;
+    line-height: 44px;
+    top: 410px;
+    left: 48px;
+}
